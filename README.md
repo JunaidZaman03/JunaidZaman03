@@ -23,11 +23,11 @@
 
 &nbsp; 🔬 &nbsp; Research in **Deep Learning & Computer Vision**
 
-&nbsp; 📡 &nbsp; Thesis on **Transformer-Based ECG Signal Analysis**
-
 &nbsp; 🛠️ &nbsp; Building with **PyTorch, TensorFlow & YOLO**
 
 &nbsp; 🎯 &nbsp; Open to **grad school & research collaborations**
+
+&nbsp; 💬 &nbsp; *"The goal is to turn data into information, and information into insight."*
 
 </td>
 <td width="45%" align="center">
@@ -72,13 +72,13 @@
 
 <br>
 
-<!-- Pac-Man Contribution Animation -->
-<!-- To set this up: create .github/workflows/pacman.yml in your repo (see workflow file) -->
+<!-- Snake Contribution Animation (eats all contributions then restarts) -->
+<!-- To set this up: create .github/workflows/snake.yml in your repo (see workflow file) -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JunaidZaman03/JunaidZaman03/output/pacman-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JunaidZaman03/JunaidZaman03/output/pacman-contribution-graph.svg" />
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JunaidZaman03/JunaidZaman03/output/pacman-contribution-graph-dark.svg" width="95%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JunaidZaman03/JunaidZaman03/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JunaidZaman03/JunaidZaman03/output/github-contribution-grid-snake.svg" />
+    <img alt="snake contribution animation" src="https://raw.githubusercontent.com/JunaidZaman03/JunaidZaman03/output/github-contribution-grid-snake-dark.svg" width="95%" />
   </picture>
 </p>
 
