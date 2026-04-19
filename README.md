@@ -1,6 +1,10 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0a0a0a,100:000000&height=200&section=header&text=Junaid%20Zaman&fontSize=42&fontColor=e6edf3&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer&descSize=14&descAlignY=52&descAlign=50" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0a0a0a,100:000000&height=200&section=header&text=Junaid%20Zaman&fontSize=42&fontColor=e6edf3&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer&descSize=14&descAlignY=52&descAlign=50" />
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Junaid%20Zaman&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer&descSize=14&descAlignY=52&descAlign=50" />
+    <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0a0a0a,100:000000&height=200&section=header&text=Junaid%20Zaman&fontSize=42&fontColor=e6edf3&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer&descSize=14&descAlignY=52&descAlign=50" width="100%" />
+  </picture>
 </p>
 
 <!-- Typing Subtitle -->
@@ -65,9 +69,17 @@
 
 <!-- GitHub Stats (no heading) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JunaidZaman03&show_icons=true&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&ring_color=58a6ff&hide_title=true" width="48%" alt="GitHub Stats" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=JunaidZaman03&show_icons=true&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&ring_color=58a6ff&hide_title=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=JunaidZaman03&show_icons=true&hide_border=true&bg_color=00000000&title_color=0969da&text_color=24292f&icon_color=0969da&ring_color=0969da&hide_title=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=JunaidZaman03&show_icons=true&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&ring_color=58a6ff&hide_title=true" width="48%" alt="GitHub Stats" />
+  </picture>
   &nbsp;
-  <img src="https://streak-stats.demolab.com?user=JunaidZaman03&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&dates=555555" width="48%" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=JunaidZaman03&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&dates=555555" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=JunaidZaman03&hide_border=true&background=00000000&ring=0969DA&fire=0969DA&currStreakLabel=0969DA&sideLabels=24292f&currStreakNum=24292f&sideNums=24292f&dates=57606a" />
+    <img src="https://streak-stats.demolab.com?user=JunaidZaman03&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&dates=555555" width="48%" alt="GitHub Streak" />
+  </picture>
 </p>
 
 <br>
@@ -105,5 +117,9 @@
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0a0a0a,100:000000&height=80&section=footer" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0a0a0a,100:000000&height=80&section=footer" />
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:1a1a2e,50:16213e,100:0f3460&height=80&section=footer" />
+    <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0a0a0a,100:000000&height=80&section=footer" width="100%" />
+  </picture>
 </p>
