@@ -1,15 +1,27 @@
-<!-- Name -->
+<!-- Name - dark mode: white, light mode: dark -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=9999&color=FFFFFF&center=true&vCenter=true&width=400&height=45&lines=Junaid+Zaman" alt="Junaid Zaman" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=9999&color=FFFFFF&center=true&vCenter=true&width=400&height=45&lines=Junaid+Zaman" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=9999&color=24292F&center=true&vCenter=true&width=400&height=45&lines=Junaid+Zaman" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=9999&color=FFFFFF&center=true&vCenter=true&width=400&height=45&lines=Junaid+Zaman" alt="Junaid Zaman" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=14&duration=3000&pause=9999&color=8B949E&center=true&vCenter=true&width=300&height=25&lines=Software+Engineer" alt="Software Engineer" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=14&duration=3000&pause=9999&color=8B949E&center=true&vCenter=true&width=300&height=25&lines=Software+Engineer" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=14&duration=3000&pause=9999&color=57606A&center=true&vCenter=true&width=300&height=25&lines=Software+Engineer" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=14&duration=3000&pause=9999&color=8B949E&center=true&vCenter=true&width=300&height=25&lines=Software+Engineer" alt="Software Engineer" />
+  </picture>
 </p>
 
 <!-- Typing Subtitle -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=18&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=550&height=30&lines=Deep+Learning+%7C+Computer+Vision+%7C+Machine+Learning" alt="Typing SVG" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=18&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=550&height=30&lines=Deep+Learning+%7C+Computer+Vision+%7C+Machine+Learning" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=18&duration=2800&pause=1200&color=1A7F37&center=true&vCenter=true&width=550&height=30&lines=Deep+Learning+%7C+Computer+Vision+%7C+Machine+Learning" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=18&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=550&height=30&lines=Deep+Learning+%7C+Computer+Vision+%7C+Machine+Learning" alt="Typing SVG" />
+  </picture>
 </p>
 
 <br>
@@ -48,13 +60,7 @@
 ### 🧰 &nbsp; Tech Stack
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,pytorch,tensorflow,java,cpp,mysql,hadoop,git,github,linux,latex,vscode,docker&theme=dark" />
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,pytorch,tensorflow,java,cpp,mysql,hadoop,git,github,linux,latex,vscode,docker&theme=light" />
-      <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,java,cpp,mysql,hadoop,git,github,linux,latex,vscode,docker&theme=dark" alt="Tech Stack" />
-    </picture>
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,java,cpp,mysql,hadoop,git,github,linux,latex,vscode,docker" alt="Tech Stack" />
 </p>
 
 <p align="center">
