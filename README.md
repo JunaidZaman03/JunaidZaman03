@@ -1,19 +1,15 @@
-<!-- Header - clean wave, no blob animation -->
+<!-- Name -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0a0a0a&height=180&section=header&text=Junaid%20Zaman&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Software%20Engineer&descSize=14&descAlignY=50&descAlign=50" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:2ea043,100:1a7f37&height=180&section=header&text=Junaid%20Zaman&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Software%20Engineer&descSize=14&descAlignY=50&descAlign=50" />
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0a0a0a&height=180&section=header&text=Junaid%20Zaman&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Software%20Engineer&descSize=14&descAlignY=50&descAlign=50" width="100%" />
-  </picture>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=9999&color=FFFFFF&center=true&vCenter=true&width=400&height=45&lines=Junaid+Zaman" alt="Junaid Zaman" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=14&duration=3000&pause=9999&color=8B949E&center=true&vCenter=true&width=300&height=25&lines=Software+Engineer" alt="Software Engineer" />
 </p>
 
 <!-- Typing Subtitle -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=18&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=550&height=30&lines=Deep+Learning+%7C+Computer+Vision+%7C+Machine+Learning" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=18&duration=2800&pause=1200&color=1A7F37&center=true&vCenter=true&width=550&height=30&lines=Deep+Learning+%7C+Computer+Vision+%7C+Machine+Learning" />
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=18&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=550&height=30&lines=Deep+Learning+%7C+Computer+Vision+%7C+Machine+Learning" alt="Typing SVG" />
-  </picture>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=18&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=550&height=30&lines=Deep+Learning+%7C+Computer+Vision+%7C+Machine+Learning" alt="Typing SVG" />
 </p>
 
 <br>
@@ -48,15 +44,17 @@
 
 <br><br>
 
-<!-- Tech Stack - auto theme switch -->
+<!-- Tech Stack -->
 ### 🧰 &nbsp; Tech Stack
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,pytorch,tensorflow,java,cpp,mysql,hadoop,git,github,linux,latex,vscode,docker&perline=13&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,pytorch,tensorflow,java,cpp,mysql,hadoop,git,github,linux,latex,vscode,docker&perline=13&theme=light" />
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,java,cpp,mysql,hadoop,git,github,linux,latex,vscode,docker&perline=13&theme=dark" alt="Tech Stack" />
-  </picture>
+  <a href="https://skillicons.dev">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,pytorch,tensorflow,java,cpp,mysql,hadoop,git,github,linux,latex,vscode,docker&theme=dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,pytorch,tensorflow,java,cpp,mysql,hadoop,git,github,linux,latex,vscode,docker&theme=light" />
+      <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,java,cpp,mysql,hadoop,git,github,linux,latex,vscode,docker&theme=dark" alt="Tech Stack" />
+    </picture>
+  </a>
 </p>
 
 <p align="center">
@@ -75,7 +73,7 @@
 
 <br><br>
 
-<!-- GitHub Stats - theme auto-switch -->
+<!-- GitHub Stats -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=JunaidZaman03&show_icons=true&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&ring_color=58a6ff&hide_title=true" />
@@ -118,15 +116,4 @@
   <a href="https://github.com/JunaidZaman03">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</p>
-
-<br>
-
-<!-- Footer - auto theme -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0a0a0a&height=80&section=footer" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:2ea043,100:1a7f37&height=80&section=footer" />
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0a0a0a&height=80&section=footer" width="100%" />
-  </picture>
 </p>
