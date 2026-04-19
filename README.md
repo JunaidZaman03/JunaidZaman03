@@ -1,15 +1,19 @@
-<!-- Header -->
+<!-- Header - clean wave, no blob animation -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0a0a0a,100:000000&height=200&section=header&text=Junaid%20Zaman&fontSize=42&fontColor=e6edf3&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer&descSize=14&descAlignY=52&descAlign=50" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Junaid%20Zaman&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer&descSize=14&descAlignY=52&descAlign=50" />
-    <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0a0a0a,100:000000&height=200&section=header&text=Junaid%20Zaman&fontSize=42&fontColor=e6edf3&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer&descSize=14&descAlignY=52&descAlign=50" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0a0a0a&height=180&section=header&text=Junaid%20Zaman&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Software%20Engineer&descSize=14&descAlignY=50&descAlign=50" />
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:2ea043,100:1a7f37&height=180&section=header&text=Junaid%20Zaman&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Software%20Engineer&descSize=14&descAlignY=50&descAlign=50" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0a0a0a&height=180&section=header&text=Junaid%20Zaman&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Software%20Engineer&descSize=14&descAlignY=50&descAlign=50" width="100%" />
   </picture>
 </p>
 
 <!-- Typing Subtitle -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=18&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=false&width=550&height=30&lines=Deep+Learning+%7C+Computer+Vision+%7C+Machine+Learning" alt="Typing SVG" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=18&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=550&height=30&lines=Deep+Learning+%7C+Computer+Vision+%7C+Machine+Learning" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=18&duration=2800&pause=1200&color=1A7F37&center=true&vCenter=true&width=550&height=30&lines=Deep+Learning+%7C+Computer+Vision+%7C+Machine+Learning" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=18&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=550&height=30&lines=Deep+Learning+%7C+Computer+Vision+%7C+Machine+Learning" alt="Typing SVG" />
+  </picture>
 </p>
 
 <br>
@@ -44,11 +48,15 @@
 
 <br><br>
 
-<!-- Tech Stack -->
+<!-- Tech Stack - auto theme switch -->
 ### 🧰 &nbsp; Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,java,cpp,mysql,hadoop,git,github,linux,latex,vscode,docker&perline=13&theme=dark" alt="Tech Stack" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,pytorch,tensorflow,java,cpp,mysql,hadoop,git,github,linux,latex,vscode,docker&perline=13&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,pytorch,tensorflow,java,cpp,mysql,hadoop,git,github,linux,latex,vscode,docker&perline=13&theme=light" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,java,cpp,mysql,hadoop,git,github,linux,latex,vscode,docker&perline=13&theme=dark" alt="Tech Stack" />
+  </picture>
 </p>
 
 <p align="center">
@@ -67,17 +75,17 @@
 
 <br><br>
 
-<!-- GitHub Stats (no heading) -->
+<!-- GitHub Stats - theme auto-switch -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=JunaidZaman03&show_icons=true&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&ring_color=58a6ff&hide_title=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=JunaidZaman03&show_icons=true&hide_border=true&bg_color=00000000&title_color=0969da&text_color=24292f&icon_color=0969da&ring_color=0969da&hide_title=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=JunaidZaman03&show_icons=true&hide_border=true&bg_color=00000000&title_color=1a7f37&text_color=24292f&icon_color=1a7f37&ring_color=1a7f37&hide_title=true" />
     <img src="https://github-readme-stats.vercel.app/api?username=JunaidZaman03&show_icons=true&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&ring_color=58a6ff&hide_title=true" width="48%" alt="GitHub Stats" />
   </picture>
   &nbsp;
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=JunaidZaman03&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&dates=555555" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=JunaidZaman03&hide_border=true&background=00000000&ring=0969DA&fire=0969DA&currStreakLabel=0969DA&sideLabels=24292f&currStreakNum=24292f&sideNums=24292f&dates=57606a" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=JunaidZaman03&hide_border=true&background=00000000&ring=1A7F37&fire=1A7F37&currStreakLabel=1A7F37&sideLabels=24292f&currStreakNum=24292f&sideNums=24292f&dates=57606a" />
     <img src="https://streak-stats.demolab.com?user=JunaidZaman03&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&dates=555555" width="48%" alt="GitHub Streak" />
   </picture>
 </p>
@@ -85,7 +93,6 @@
 <br>
 
 <!-- Pac-Man Contribution Animation -->
-<!-- Setup: create .github/workflows/pacman.yml in your repo (see workflow file provided) -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JunaidZaman03/JunaidZaman03/output/pacman-contribution-graph-dark.svg" />
@@ -115,11 +122,11 @@
 
 <br>
 
-<!-- Footer -->
+<!-- Footer - auto theme -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0a0a0a,100:000000&height=80&section=footer" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:1a1a2e,50:16213e,100:0f3460&height=80&section=footer" />
-    <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0a0a0a,100:000000&height=80&section=footer" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0a0a0a&height=80&section=footer" />
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:2ea043,100:1a7f37&height=80&section=footer" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0a0a0a&height=80&section=footer" width="100%" />
   </picture>
 </p>
