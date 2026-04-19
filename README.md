@@ -1,19 +1,6 @@
-<!-- Name - dark mode: white, light mode: dark -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=9999&color=FFFFFF&center=true&vCenter=true&width=400&height=45&lines=Junaid+Zaman" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=9999&color=24292F&center=true&vCenter=true&width=400&height=45&lines=Junaid+Zaman" />
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=9999&color=FFFFFF&center=true&vCenter=true&width=400&height=45&lines=Junaid+Zaman" alt="Junaid Zaman" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=14&duration=3000&pause=9999&color=8B949E&center=true&vCenter=true&width=300&height=25&lines=Software+Engineer" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=14&duration=3000&pause=9999&color=57606A&center=true&vCenter=true&width=300&height=25&lines=Software+Engineer" />
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=14&duration=3000&pause=9999&color=8B949E&center=true&vCenter=true&width=300&height=25&lines=Software+Engineer" alt="Software Engineer" />
-  </picture>
-</p>
+<!-- Name -->
+<h1 align="center">Junaid Zaman</h1>
+<p align="center"><code>Software Engineer</code></p>
 
 <!-- Typing Subtitle -->
 <p align="center">
