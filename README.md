@@ -71,9 +71,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=JunaidZaman03&show_icons=true&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&ring_color=58a6ff&hide_title=true&count_private=true&cache_seconds=1800&v=20260419" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=JunaidZaman03&show_icons=true&hide_border=true&bg_color=ffffff&title_color=1a7f37&text_color=1f2328&icon_color=1a7f37&ring_color=1a7f37&hide_title=true&count_private=true&cache_seconds=1800&v=20260419" />
-    <img src="https://github-readme-stats.vercel.app/api?username=JunaidZaman03&show_icons=true&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&ring_color=58a6ff&hide_title=true&count_private=true&cache_seconds=1800&v=20260419" width="48%" alt="GitHub Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://junaid-github-stats.vercel.app/api?username=JunaidZaman03&show_icons=true&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&ring_color=58a6ff&hide_title=true&count_private=true&cache_seconds=1800&v=20260419" />
+    <source media="(prefers-color-scheme: light)" srcset="https://junaid-github-stats.vercel.app/api?username=JunaidZaman03&show_icons=true&hide_border=true&bg_color=ffffff&title_color=1a7f37&text_color=1f2328&icon_color=1a7f37&ring_color=1a7f37&hide_title=true&count_private=true&cache_seconds=1800&v=20260419" />
+    <img src="https://junaid-github-stats.vercel.app/api?username=JunaidZaman03&show_icons=true&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&ring_color=58a6ff&hide_title=true&count_private=true&cache_seconds=1800&v=20260419" width="48%" alt="GitHub Stats" />
   </picture>
   &nbsp;
   <picture>
