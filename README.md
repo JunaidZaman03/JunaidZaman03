@@ -77,9 +77,9 @@
   </picture>
   &nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=JunaidZaman03&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&dates=555555" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=JunaidZaman03&hide_border=true&background=ffffff&ring=1A7F37&fire=1A7F37&currStreakLabel=1A7F37&sideLabels=1f2328&currStreakNum=1f2328&sideNums=1f2328&dates=656d76" />
-    <img src="https://streak-stats.demolab.com?user=JunaidZaman03&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&dates=555555" width="48%" alt="GitHub Streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://junaid-github-stats.vercel.app/api/top-langs/?username=JunaidZaman03&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=8b949e&layout=compact&langs_count=6&cache_seconds=1800" />
+    <source media="(prefers-color-scheme: light)" srcset="https://junaid-github-stats.vercel.app/api/top-langs/?username=JunaidZaman03&hide_border=true&bg_color=ffffff&title_color=1a7f37&text_color=1f2328&layout=compact&langs_count=6&cache_seconds=1800" />
+    <img src="https://junaid-github-stats.vercel.app/api/top-langs/?username=JunaidZaman03&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=8b949e&layout=compact&langs_count=6&cache_seconds=1800" width="48%" alt="Top Languages" />
   </picture>
 </p>
 
